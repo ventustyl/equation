@@ -2,7 +2,6 @@
 
 Ce référentiel contient une application de résolution d'équations du premier et du second degré. L'application est développée en utilisant React et permet aux utilisateurs d'entrer des équations et de calculer leurs solutions.
 
-![Capture d'écran de l'application](screenshot.png)
 
 ## Fonctionnalités
 
